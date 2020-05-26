@@ -1,7 +1,7 @@
 # Personal website hosted on Github Pages
 
 ## Based on the Portfolio-kami Theme
-![Portfolio-kami](https://github.com/Bloc/portfolio-kami)
+[Portfolio-kami](https://github.com/Bloc/portfolio-kami)
 
 ## Modified
 - FontAwesome update to version 5
