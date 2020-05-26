@@ -16,13 +16,6 @@ Our group has been seeking a systematic approach by building on the Maxey–Rile
 
 Built on first principles, the Maxey–Riley is a classical mechanics second Newton's law for the motion of inertial particles immersed in a fluid in motion. We have extended the validity of Maxey–Riley set to finite-size particles that float at the air–sea interface accounting for the combined effects of ocean currents and wind drags. The resulting equation involves slow and fast variables, problem that can be analyzed using the Haller–Sapsis extension to nonautonomous systems of Fenichel's classic geometric singular perturbation theory. Investigating inertial dynamics on the slow manifold, a codimension-two manifold that attracts all solutions of the Maxey–Riley set, has enabled us to gain important insight. This includes the possible role of mesoscale eddies as attractors of flotsam or the tendency of the latter to develop large patches in the centers of the subtropical gyres.
 
-## Equations
-TODO, this is an example.
-
-{% katex display %}
-c = \pm\sqrt{a^2 + b^2}
-{% endkatex %}
-
 ## Validation
 Currently underway are the planning of field and lab experiments to test the Beron-Vera–Olascoaga–Miron (BOM) theory of inertial particle dynamics in the ocean and an extension of the latter to account for the motion of elastically interacting inertial particles as a minimal model for Sargassum drift.
 

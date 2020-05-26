@@ -32,7 +32,6 @@ theme_settings:
 
   # Scripts
   google_analytics: "UA-167579461-1" # Tracking ID, e.g. "UA-000000-01"
-  katex: true # Enable if using math markup
 
   # Localization strings
   str_follow_on: "Follow on"
@@ -64,4 +63,3 @@ sass:
 
 plugins:
   - jekyll-paginate
-  - jekyll-katex
