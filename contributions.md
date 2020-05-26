@@ -13,7 +13,7 @@ permalink: /contributions/
 
 ## Preprint Articles
 {% for paper in site.data.preprint %}
-+ {{ paper.authors }}, {{paper.title}}, {{paper.journal}}, {{paper.year}}{% if paper.doi %}, [link]({{ paper.doi }}){% endif %}{% endfor %}
+- {{ paper.authors }}, {{paper.title}}, {{paper.journal}}, {{paper.year}}{% if paper.doi %}, [link]({{ paper.doi }}){% endif %}{% endfor %}
 
 ## Peer-reviewed Articles
 {% for paper in site.data.publications %}
