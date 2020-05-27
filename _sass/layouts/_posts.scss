@@ -1,6 +1,6 @@
 article,
 .comments {
-  padding:0 10% 0;
+  @extend %padding-regular;
   float: left;
   width: 100%;
 }

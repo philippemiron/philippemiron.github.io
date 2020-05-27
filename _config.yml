@@ -35,7 +35,7 @@ theme_settings:
 
   # Localization strings
   str_follow_on: "Follow on"
-  str_email: "Email"
+  str_email: "Connect via Email"
   str_next: "Next"
   str_prev: "Prev"
   str_continue_reading: "Read more &raquo;"
