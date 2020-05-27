@@ -1,6 +1,5 @@
 * {
   margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 html {
@@ -18,7 +17,6 @@ body {
   color: $text-color;
   font-family: $font-family-main;
   font-size: $font-size;
-  word-wrap: break-word;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-headings;
@@ -84,14 +82,11 @@ dd {
 p, ol, ul, dl, .math-display {
   line-height: 1.75;
   margin-bottom: 1em;
-  padding: 0px 3px;
+  padding: 0px 5px;
 }
 .math-display {
   display: inline-block;
   width: 100%;
-}
-ol, ul {
-  list-style-position: inside;
 }
 hr {
   border: 0;

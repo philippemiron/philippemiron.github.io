@@ -3,7 +3,6 @@ layout: page
 title: CV
 permalink: /contributions/
 ---
-
 ## Education
 + 2016–2020, Postdoctoral Associate, Physical Oceanography, University of Miami
 + 2012–2016, Ph. D., Experimental Mechanical Engineering, Polytechnique Montréal

@@ -1,6 +1,6 @@
 // Header text feature
 .call-out {
-  padding:5% 0;
+  padding:5% 0% 0% 0%;
   display: inline-block;
   width: 100%;
   background-size: cover;
@@ -32,7 +32,7 @@
     display:block;
   }
   .divider {
-    width:80px;
+    width:100px;
     height:3px;
     background-color:$border-color;
     display:block;
@@ -121,7 +121,7 @@
       margin-top: 1em;
     }
   }
-  
+
 }
 // Pagination
 .pagination .button {
