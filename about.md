@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 feature-img: /img/portrait-pm.png
 ---
-{:.center}
-![]({{ site.baseurl }}/img/portrait-pm.png)
+
+![]({{ site.baseurl }}/img/portrait-pm.png){:.center-image width="40%"}
 
 Philippe Miron is an Assistant Scientist at the [Rosenstiel School of Marine and Atmospheric Science (University of Miami)](https://www.rsmas.miami.edu/){:target="_blank"}.
 
