@@ -4,6 +4,7 @@ title: CV
 permalink: /contributions/
 ---
 ## Education
++ 2020-    , Assistant Scientist, Physical Oceanography, University of Miami
 + 2016–2020, Postdoctoral Associate, Physical Oceanography, University of Miami
 + 2012–2016, Ph. D., Experimental Mechanical Engineering, Polytechnique Montréal
 + 2010–2012, M. Sc. A, Mechanical Engineering, Polytechnique Montréal
