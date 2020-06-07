@@ -61,7 +61,7 @@ permalink: /contributions/
   - Catia/Solidworks
 
 ## Languages
-+ French (mother tongue)
++ French (native)
 + English (excellent knowledge)
 + Spanish (good knowledge)
 + Portuguese (beginner)
