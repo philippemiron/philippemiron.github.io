@@ -13,7 +13,7 @@ Photo from Victoria Coles at the University of Maryland center for Environmental
 
 ## Development
 
-![]({{ site.baseurl }}/img/sargassum.png){:.center-image}
+![]({{ site.baseurl }}/img/pf-sargassum.gif){:.center-image}
 
 
 ## Applications
