@@ -1,4 +1,4 @@
-# Personal website hosted on Github Pages
+# Personal website
 
 ## Based on the Portfolio-kami Theme
 [Portfolio-kami](https://github.com/Bloc/portfolio-kami)
