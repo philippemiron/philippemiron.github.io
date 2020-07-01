@@ -7,9 +7,11 @@ short-description: Development of a transport model to forecast beaching of sarg
 
 ## Problem
 ![]({{ site.baseurl }}/img/sargassum-miami.png){:.center-image width='60%'}
-Photo: Michael Montero/UM News of South Beach on Miami Beach on June 21, 2018. 
+Photo: Michael Montero/UM News of South Beach on Miami Beach on June 21, 2018.
 
 ## Development
+*In process*
+
 ![]({{ site.baseurl }}/img/sargassum.png){:.center-image width='60%'}
 
 ![]({{ site.baseurl }}/img/sargassum-feq.png){:.center-image width='60%'}
