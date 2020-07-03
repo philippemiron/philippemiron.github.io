@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Floating marine debris
-thumbnail-path: "/img/mr-exp.png"
+thumbnail-path: '/img/mr-exp.png'
 short-description: Modeling the trajectory of floating objects at the surface of the ocean.
 ---
 

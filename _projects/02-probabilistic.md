@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Probabilistic dispersion
-thumbnail-path: "/img/pf-prob.png"
+thumbnail-path: '/img/pf-prob.png'
 short-description: Markov Chain toolbox to analyze Lagrangian data sets of surface drifters and subsurface floats.
 ---
 

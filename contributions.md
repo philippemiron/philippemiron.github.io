@@ -21,11 +21,11 @@ permalink: /contributions/
 
 ## Talks
 {% for talk in site.data.talks %}
-+ {{ talk.authors }}, {{talk.title}}, {{talk.event}}, {{talk.location}}, {{talk.date}}{% if talk.doi %}, [link]({{ talk.doi }}){% endif %}{% endfor %}
++ {{ talk.authors }}, {{talk.title}}, {{talk.event}}, {{talk.location}}, {{talk.date}}{% if talk.doi %}, [link]({{ talk.doi }}){% endif %}{% if talk.path %}, [pdf]({{ talk.path }}) {% endif %}{% endfor %}
 
 ## Posters
 {% for poster in site.data.posters %}
-+ {{ poster.authors }}, {{poster.title}}, {{poster.event}}, {{poster.location}}, {{poster.date}}{% if poster.doi %}, [link]({{ poster.doi }}){% endif %}{% endfor %}
++ {{ poster.authors }}, {{poster.title}}, {{poster.event}}, {{poster.location}}, {{poster.date}}{% if poster.doi %}, [link]({{ poster.doi }}){% endif %}{% if poster.path %}, [pdf]({{ poster.path }}) {% endif %}{% endfor %}
 
 ## Teaching experiences
 + Fluid dynamics (5 semesters)
