@@ -2,7 +2,7 @@
 layout: post
 title: Probabilistic dispersion
 thumbnail-path: "/img/pf-prob.png"
-short-description: From observations of surface buoys or deep subsurface floats, the construction of a transition matrix allows for the
+short-description: Markov Chain toolbox to analyze Lagrangian data sets of surface drifters and subsurface floats.
 ---
 
 ## Problem

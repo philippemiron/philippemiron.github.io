@@ -2,7 +2,7 @@
 layout: post
 title: Floating marine debris
 thumbnail-path: "/img/mr-exp.png"
-short-description: Modeling the trajectory of floating objects at the surface of the ocean...
+short-description: Modeling the trajectory of floating objects at the surface of the ocean.
 ---
 
 ## Problem
@@ -16,7 +16,6 @@ Our group has been seeking a systematic approach by building on the Maxey–Rile
 Built on first principles, the Maxey–Riley is a classical mechanics second Newton's law for the motion of inertial particles immersed in a fluid in motion. We have extended the validity of Maxey–Riley set to finite-size particles that float at the air–sea interface accounting for the combined effects of ocean currents *v(x,t)* and wind drags *v<sub>a</sub>(x,t)*. Investigating inertial dynamics on the slow manifold, a codimension-two manifold that attracts all solutions of the Maxey–Riley set, has enabled us to gain important insight. This includes the possible role of mesoscale eddies as attractors of flotsam or the tendency of the latter to develop large patches in the centers of the subtropical gyres.
 
 ## Validation
-
 First, a series of field experiments were carried in the Atlantic Ocean, in collaboration with researcher from NOAA's Atlantic Oceanographic and Meteorological Laboratory. Special buoys with different inertial characteristics (size, shape, and buoyancy) were deployed simultaneously to observe the effects of inertia of the objects' trajectories (see Olascoaga et al., 2020 and Miron et al., 2020b) and to test the Beron-Vera-Olascoaga-Miron (BOM) framework.
 
 ![]({{ site.baseurl }}/img/mr-exp.png){:.center-image width='60%'}
