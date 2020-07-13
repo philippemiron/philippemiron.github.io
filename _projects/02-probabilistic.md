@@ -17,7 +17,7 @@ Probabilistic methods allows to combine the information contains in trajectories
 
 ## Applications
 
-As a first example, the Sargassum spreading across the Atlantic Ocean is obtained from a uniform distribution across the Atlantic Ocean between 7°S and 20°N using undrogued drifters from GDP (1992–2019).
+As a first example, the *Sargassum* spreading across the Atlantic Ocean is obtained from a uniform distribution across the Atlantic Ocean between 7°S and 20°N using undrogued drifters from GDP (1992–2019).
 
 ![]({{ site.baseurl }}/img/pf-sargassum.gif){:.center-image width='90%'}
 
@@ -31,4 +31,4 @@ The **py**thon [**G**eophysical **T**ransition **M**atrix (**pygtm**)](https://g
 ## Sources
 - Hamilton, P., A. Bower, H. Furey, R. Leben, and P. Pérez-Brunius, Deep circulation in the Gulf of Mexico: A Lagrangian study, OCS Study BOEM 2016-081 Tech. Rep., Bureau of Ocean Energy Management, 2016, [link](https://permanent.fdlp.gov/gpo80279/5583%5b1%5d.pdf)
 - See, [Prof. Amy Bower's project page](https://www2.whoi.edu/site/bower-lab/a-lagrangian-study-of-the-deep-circulation-in-the-gulf-of-mexico-2/) for a list of publications from the RAFOS experiment
-- P. Miron, F. J. Beron-Vera, M. J. Olascoaga and P. Koltai, Markov-chain-inspired search for MH370, [link](https://doi.org/10.1063/1.5092132)
+- P. Miron, F.J. Beron-Vera, M.J. Olascoaga and P. Koltai, Markov-chain-inspired search for MH370, [link](https://doi.org/10.1063/1.5092132)
