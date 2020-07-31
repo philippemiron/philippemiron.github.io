@@ -14,7 +14,7 @@
   authors: 'F. J. Beron-Vera, M. J. Olascoaga and **P. Miron**'
   journal: Physics of Fluids
   year: '2019'
-  doi: https://aip.scitation.org/doi/10.1063/1.5110731
+  doi: https://doi.org/10.1063/1.5110731
 
 - title: Markov-chain-inspired search for MH370
   authors: '**P. Miron**, F. J. Beron-Vera, M. J. Olascoaga and P. Koltai'
@@ -44,7 +44,7 @@
   authors: '**P. Miron** and J. Vétel'
   journal: Journal of Fluid Mechanics
   year: '2015'
-  doi: http://dx.doi.org/10.1017/jfm.2015.461{http://dx.doi.org/10.1017/jfm.2015.461
+  doi: http://dx.doi.org/10.1017/jfm.2015.461
 
 - title: On the flow separation in the wake of a fixed and a rotating cylinder
   authors: '**P. Miron**, J. Vétel and A. Garon'

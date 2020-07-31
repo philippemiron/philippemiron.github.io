@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Sargassum* modeling
+title: 'Sargassum modeling'
 thumbnail-path: '/img/sargassum.png'
 short-description: Development of a transport model to forecast beaching of Sargassum mats and help local authorities.
 ---
@@ -21,5 +21,5 @@ We are currently looking for funding to pursue the development of a *Sargassum* 
 
 ## Source
 - K. Langin, Seaweed masses assault Caribbean islands, Science, 2018, [link](https://science.sciencemag.org/content/360/6394/1157.summary)
-- F.J. Beron-Vera and P. Miron, A minimal Maxey–Riley model for the drift of *Sargassum* rafts, Preprint, 2020
+- F.J. Beron-Vera and P. Miron, A minimal Maxey–Riley model for the drift of Sargassum rafts, Journal of Fluid Mechanics, 2020, [Preprint](https://arxiv.org/abs/2003.03339)
 - F.J. Beron-Vera, M.J. Olascoaga and P. Miron, Building a Maxey–Riley framework for surface ocean inertial, Physics of Fluids, 2019, [link](https://aip.scitation.org/doi/10.1063/1.5110731)
