@@ -22,7 +22,7 @@ First, a series of field experiments were carried in the Atlantic Ocean, in coll
 
 Second, laboratory measurements were carried out in a controlled environment in the wave-tank facility at the Rosenstiel School of Marine and Atmospheric Science. The objects (a smaller [CARTHE drifter](https://www.pacificgyre.com/carthe-drifter.aspx) replica and four spheres of different buoyancy) were released in the funnel and recorded as they traveled downstream. Each object was later tracked to quantify the effect of the wind and the current on its velocity and to compare with the theoretical values from the BOM framework (Miron et al. 2020a).
 
-![]({{ site.baseurl }}/img/mr-wavetank.gif){:.center-image width='60%'}
+![]({{ site.baseurl }}/img/mr-wavetank.webp){:.center-image width='60%'}
 
 ## Publications
 - P. Miron, M.J. Olascoaga, F.J. Beron-Vera, N.F. Putman, J. Triñanes, R. Lumpkin and G.J. Goni, How local winds and currents impact the trajectories of marine debris and Sargassum: Inertia-dependent clustering of floating material paths, Preprint, 2020b
