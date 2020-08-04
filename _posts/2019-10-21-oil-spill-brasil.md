@@ -9,4 +9,4 @@ Using drifters from the Global Drifters Program and tools described in Probabili
 
 Link to the news articles: [Folha de S.Paulo](https://www1.folha.uol.com.br/ambiente/2019/10/tecnica-usada-em-desastre-aereo-ajuda-na-busca-por-origem-do-oleo-que-atinge-o-nordeste.shtml) [(pdf)](/archive/news/2019-folha-oleo.pdf), [ODCM](https://www.diariodocentrodomundo.com.br/manchas-de-oleo-nenhuma-acao-muita-politica-e-pouca-ciencia-por-fernando-brito/) [(pdf)](/archive/news/2019-odcm-oleo.pdf), [Brasil 247](https://www.brasil247.com/midia/manchas-de-oleo-nenhuma-acao-muita-politica-e-pouca-ciencia) [(pdf)](/archive/news/2019-midia-oleo.pdf), [Tijolaço](http://www.tijolaco.net/blog/manchas-de-oleo-nenhuma-acao-muita-politica-e-pouca-ciencia/) [(pdf)](/archive/news/2019-tijolaco-oleo.pdf).
 
-![]({{ site.baseurl }}/img/brasil-oil.png){:.center-image width='75%'}
+![]({{ site.baseurl }}/img/brasil-oil.webp){:.center-image width='75%'}
