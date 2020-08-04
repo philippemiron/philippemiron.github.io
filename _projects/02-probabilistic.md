@@ -19,7 +19,7 @@ Probabilistic methods allows to combine the information contains in trajectories
 
 As a first example, the *Sargassum* spreading across the Atlantic Ocean is obtained from a uniform distribution across the Atlantic Ocean between 7°S and 20°N using undrogued drifters from GDP (1992–2019).
 
-![]({{ site.baseurl }}/img/pf-sargassum.gif){:.center-image width='90%'}
+![]({{ site.baseurl }}/img/pf-sargassum.webp){:.center-image width='90%'}
 
 As a second example, the Markov-chain model is used to estimate the probabilistic description of the drift of marine debris from the infamous Malaysian Airlines flight MH370. En route from Kuala Lumpur to Beijing, MH370 mysteriously disappeared in the southeastern Indian Ocean on 8 March 2014, somewhere along the arc of the 7th ping ring around the Inmarsat-3F1 satellite position when the airplane lost contact. The transition matrix is constructed using undrogued satellite-tracked surface buoys (to approximate the dynamics of marine debris) from the global historical data bank. Then using Bayesian estimation, we estimate the most probable crash site around 25°S on the Inmarsat arc. This location maximizes the probabilities of finding the confirmed airplane debris at their reported time and location across the Indian Ocean coast ().
 
