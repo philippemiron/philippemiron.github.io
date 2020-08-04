@@ -14,7 +14,7 @@ Photo from Michael Montero/UM News of South Beach on Miami Beach on June 21, 201
 ## Development
 We are currently developing a drift model for Sargassum mats that can be used to generate realtime forecast of beaching probabilities from satellite-inderred offshore locations. The transport model is based on the inertial equation (Beron et al, 2019). In Beron & Miron 2020, we model the Sargassum raft, which are formed of gas-filled bladders connected by flexible stems, as a network of elastically interacting inertial particles. Those elastic connections are important for the drifts of the algea and are critical to improve the forecasts accuracy.
 
-![]({{ site.baseurl }}/img/sargassum.webp){:.center-image width='60%'}
+![]({{ site.baseurl }}/img/sargassum.webp){:.center-image width='70%'}
 
 ## Applications
 We are currently looking for funding to pursue the development of a Sargassum transport model and to develop a real-time Sargassum mats forecast system. Using fully-coupled ocean model forecast output, the goal would be to generate probabilistic maps of algae beachings.
