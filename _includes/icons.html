@@ -38,6 +38,14 @@
 </li>
 {% endif %}
 
+{% if site.theme_settings.researchgate %}
+<li>
+	<a href="https://www.researchgate.net/profile/{{ site.theme_settings.researchgate }}" target="_blank" title="{{ site.theme_settings.str_follow_on }} Research Gate">
+		<i class="fab fa-researchgate"></i>
+	</a>
+</li>
+{% endif %}
+
 {% if site.theme_settings.linkedin %}
 <li>
 	<a href="https://www.linkedin.com/in/{{ site.theme_settings.linkedin }}" target="_blank" title="{{ site.theme_settings.str_follow_on }} LinkedIn">

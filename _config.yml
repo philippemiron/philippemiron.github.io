@@ -15,13 +15,13 @@ theme_settings:
   header_text_feature_image:
   footer_text: >
     Made with <i class="far fa-fw fa-heart"></i> and powered by <a href="http://jekyllrb.com">Jekyll</a>
-
   # Icons
   rss: false
   email_address: philippemiron@gmail.com
   twitter: philippemiron
   github: philippemiron
   uwebsite: https://nonlinear.rsmas.miami.edu/ #university group website
+  researchgate: Philippe_Miron
   instagram: philippemiron
   linkedin: philippemiron
   gscholar: https://scholar.google.com/citations?user=XEtG4h0AAAAJ&hl=en # full address
