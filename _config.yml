@@ -14,7 +14,7 @@ theme_settings:
      <p>Turning data into science at the University of Miami<p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with <i class="far fa-fw fa-heart"></i>
+   Made with <i class="far fa-fw fa-heart"> and powered by <a href="http://jekyllrb.com">Jekyll</a></i>
 
   # Icons
   rss: false
