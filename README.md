@@ -1,7 +1,6 @@
 # Personal website
 
-## Based on the Portfolio-kami Theme
-[Portfolio-kami](https://github.com/Bloc/portfolio-kami)
+## Based on the [Portfolio-kami](https://github.com/Bloc/portfolio-kami)
 
 ## Modified
 - FontAwesome update to version 5
