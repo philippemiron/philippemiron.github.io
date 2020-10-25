@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/philippemiron
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://philippemiron.github.io
+  * I am philippemiron (https://keybase.io/philippemiron) on keybase.
+  * I have a public key ASBvwwEafkDT1aG76HLP4pYadl0Vt8zWsnr1RpK8nBDH5Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010194165e9fabbd5f548067b406c28faa04a603c5ff1619ef7cba3e55999108ff6e0a",
+      "host": "keybase.io",
+      "kid": "01206fc3011a7e40d3d5a1bbe872cfe2961a765d15b7ccd6b27af54692bc9c10c7e40a",
+      "uid": "d37b7cc8f35e1004d454f66d62634919",
+      "username": "philippemiron"
+    },
+    "merkle_root": {
+      "ctime": 1603650762,
+      "hash": "a5d42669b0320440627da73211e5b4dd0792a5bb69373ef1aa1a61e36b2cc645b22e5b838a687b06db2b61e49eec6ac991333e14a23edfebc6180f7c64f07a38",
+      "hash_meta": "d9a6390acf7999b619daa7f6e5e55d0fcaa5cc91c450ef19b6fc398fbecc2552",
+      "seqno": 17925043
+    },
+    "service": {
+      "entropy": "r9zsLJxh14Y95AvwlnheIIyI",
+      "hostname": "philippemiron.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1603650804,
+  "expire_in": 504576000,
+  "prev": "3fe11a86137400e2dcd061757d358120637dd1bc53c8f03daa8e7372b9e0894d",
+  "seqno": 62,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgb8MBGn5A09Whu+hyz+KWGnZdFbfM1rJ69UaSvJwQx+QKp3BheWxvYWTESpcCPsQgP+EahhN0AOLc0GF1fTWBIGN90bxTyPA9qo5zcrngiU3EIKwINvtfwCIeV/Pqq7380j4fcFnZLJ91dvcQkQjoj+ySAgHCo3NpZ8RA7mTuwBcrWxvmT49ePAJeNO7UZzNrSas1x4ui/Ty3OlnzDDE5h6ZlCI2zozyRLPNqWq7Irs38YENPRVNgllM8AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPW+6VL7AI2cZ4LX4Dsm2Cokydw1ucYtX3mFklDRzYzGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/philippemiron
+
+==================================================================
