@@ -1,14 +1,8 @@
-- title: Coastal Surface Connectivity Of The Gulf Of Mexico From Transition Matrices.
-  authors: 'J.R. Outerelo, P. Perez-Brunius, M.J. Olascoaga, **P. Miron**, F.J. Beron-Vera, P. García-Carrillo, J. Sheinbaum, J.M. Azevedo Correia de Souza, J. Jouanno, S.N. Estrada-Allis and J. Zavala-Hidalgo'
-  event: Ocean Sciences Meeting
-  location: Portland, OR, USA
-  date: '2018-02-12'
-
-- title: Oil spill scenarios in the western gulf of Mexico
-  authors: 'P. Perez-Brunius, J. Sheinbaum, M.J. Olascoaga, F.J. Beron-Vera, **P. Miron**, K. Kotzakoulakis, J.A. Lara, J.R. Outerelo, P. García-Carrillo, J. Zavala-Hidalgo, S.N. Estrada-Allis, J.M. Azevedo Correia de Souza, J. Jouanno and A. Maslo'
-  event: Ocean Sciences Meeting
-  location: Portland, OR, USA
-  date: '2018-02-12'
+- title: Pathways of the Overturning Circulation in the South Atlantic
+  authors: 'K. L. Drouin, M. S. Lozier, F. J. Beron-Vera, **P. Miron**, M. J. Olascoaga'
+  event: AGU Fall Meeting 2020
+  location: Online
+  date: '2020-12-14'
 
 - title: Loop Current influence on the connectivity of the Gulf of Mexico
   authors: '**P. Miron**, F. J. Beron-Vera and M. J. Olascoaga'
@@ -23,6 +17,18 @@
   date: '2019-06-17'
   location: 'Venice, Italy'
   path: '/archive/talks/2019-lapcod-summary.pdf'
+
+- title: Coastal Surface Connectivity Of The Gulf Of Mexico From Transition Matrices.
+  authors: 'J.R. Outerelo, P. Perez-Brunius, M.J. Olascoaga, **P. Miron**, F.J. Beron-Vera, P. García-Carrillo, J. Sheinbaum, J.M. Azevedo Correia de Souza, J. Jouanno, S.N. Estrada-Allis and J. Zavala-Hidalgo'
+  event: Ocean Sciences Meeting
+  location: Portland, OR, USA
+  date: '2018-02-12'
+
+- title: Oil spill scenarios in the western gulf of Mexico
+  authors: 'P. Perez-Brunius, J. Sheinbaum, M.J. Olascoaga, F.J. Beron-Vera, **P. Miron**, K. Kotzakoulakis, J.A. Lara, J.R. Outerelo, P. García-Carrillo, J. Zavala-Hidalgo, S.N. Estrada-Allis, J.M. Azevedo Correia de Souza, J. Jouanno and A. Maslo'
+  event: Ocean Sciences Meeting
+  location: Portland, OR, USA
+  date: '2018-02-12'
 
 - title: Abyssal Lagrangian Dynamical Geography of the Gulf of Mexico
   authors: '**P. Miron**, F. J. Beron-Vera and M. J. Olascoaga'
