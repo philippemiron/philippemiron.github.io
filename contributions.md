@@ -13,7 +13,7 @@ permalink: /contributions/
 
 ## Fundings
 {% for funding in site.data.fundings %}
-+ {{funding.id}}, {{funding.role}}, {{funding.pis}}, {{funding.title}}, {{funding.amount}}, {{funding.date}}{% endfor %}
++ {{funding.id}}, {{funding.role}}, {{funding.pis}}, {{funding.title}}, {{funding.amount}}, {{funding.date}}, {% if funding.link %}, [link]({{ funding.link }}){% endif %}{% endfor %}
 
 ## Preprint Articles
 {% for paper in site.data.preprint %}
