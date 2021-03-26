@@ -13,23 +13,23 @@ permalink: /contributions/
 
 ## Fundings
 {% for funding in site.data.fundings %}
-+ {{ funding.id }}, {{ funding.role }}, {{ funding.title }}, {{ funding.amount }}, {{funding.date}}{% endfor %}
++ {{funding.id}}, {{funding.role}}, {{funding.title}}, {{funding.amount}}, {{funding.date}}{% endfor %}
 
 ## Preprint Articles
 {% for paper in site.data.preprint %}
-- {{ paper.authors }}, {{paper.title}}, {{paper.journal}}, {{paper.year}}{% if paper.doi %}, [link]({{ paper.doi }}){% endif %}{% endfor %}
++ {{paper.authors}}, {{paper.title}}, {{paper.journal}}, {{paper.year}}{% if paper.doi %}, [link]({{ paper.doi }}){% endif %}{% endfor %}
 
 ## Peer-reviewed Articles
 {% for paper in site.data.publications %}
-+ {{ paper.authors }}, {{paper.title}}, {{paper.journal}}, {{paper.year}}{% if paper.doi %}, [link]({{ paper.doi }}){% endif %}{% endfor %}
++ {{paper.authors}}, {{paper.title}}, {{paper.journal}}, {{paper.year}}{% if paper.doi %}, [link]({{ paper.doi }}){% endif %}{% endfor %}
 
 ## Talks
 {% for talk in site.data.talks %}
-+ {{ talk.authors }}, {{talk.title}}, {{talk.event}}, {{talk.location}}, {{talk.date}}{% if talk.doi %}, [link]({{ talk.doi }}){% endif %}{% if talk.path %}, [pdf]({{ talk.path }}) {% endif %}{% endfor %}
++ {{talk.authors}}, {{talk.title}}, {{talk.event}}, {{talk.location}}, {{talk.date}}{% if talk.doi %}, [link]({{ talk.doi }}){% endif %}{% if talk.path %}, [pdf]({{ talk.path }}) {% endif %}{% endfor %}
 
 ## Posters
 {% for poster in site.data.posters %}
-+ {{ poster.authors }}, {{poster.title}}, {{poster.event}}, {{poster.location}}, {{poster.date}}{% if poster.doi %}, [link]({{ poster.doi }}){% endif %}{% if poster.path %}, [pdf]({{ poster.path }}) {% endif %}{% endfor %}
++ {{poster.authors}}, {{poster.title}}, {{poster.event}}, {{poster.location}}, {{poster.date}}{% if poster.doi %}, [link]({{ poster.doi }}){% endif %}{% if poster.path %}, [pdf]({{ poster.path }}) {% endif %}{% endfor %}
 
 ## Teaching experiences
 + Fluid dynamics (5 semesters)
