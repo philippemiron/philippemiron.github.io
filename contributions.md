@@ -11,6 +11,10 @@ permalink: /contributions/
 + 2007-2008, B. Ing, Industrial Engineering, Universidad Politécnica de Madrid, Madrid
 + 2005-2009, B. Ing., Mechanical Engineering, Polytechnique Montréal
 
+## Fundings
+{% for funding in site.data.fundings %}
++ {{ funding.id }}, {{ funding.role }}, {{ funding.title }}, {{ funding.amount }}, {{funding.date}}{% endfor %}
+
 ## Preprint Articles
 {% for paper in site.data.preprint %}
 - {{ paper.authors }}, {{paper.title}}, {{paper.journal}}, {{paper.year}}{% if paper.doi %}, [link]({{ paper.doi }}){% endif %}{% endfor %}
