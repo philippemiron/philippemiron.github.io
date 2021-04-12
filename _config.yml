@@ -12,7 +12,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Assistant Scientist</h1>
-     <p>Turning data into science at the University of Miami<p>
+     <p>Turning geoscience data into science at the University of Miami<p>
   header_text_feature_image:
   footer_text: >
     Made with <i class="far fa-fw fa-heart"></i> and powered by <a href="http://jekyllrb.com">Jekyll</a>
