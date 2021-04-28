@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Pathways of the North Atlantic Deep Water
-thumbnail-path: '/img/mr-exp.png'
+thumbnail-path: '/img/nadw-paths.png'
 short-description: Uncovering the pathways from deep water formation sites out of the subpolar North Atlantic.
 ---
 
