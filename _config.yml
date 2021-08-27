@@ -11,7 +11,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Assistant Scientist</h1>
+     <h1>Research Faculty</h1>
      <p>Turning geoscience data into science<p>
   header_text_feature_image:
   footer_text: >
@@ -21,7 +21,7 @@ theme_settings:
   email_address: philippemiron@gmail.com
   twitter: philippemiron
   github: philippemiron
-  #uwebsite: https://nonlinear.rsmas.miami.edu/ #university group website
+  uwebsite: https://www.coaps.fsu.edu # university group website
   researchgate: Philippe_Miron
   instagram: philippemiron
   linkedin: philippemiron
