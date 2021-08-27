@@ -12,7 +12,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Research Faculty</h1>
-     <p>Turning geoscience data into science<p>
+     <p>Turning geoscience data into science at Florida State University (COAPS)<p>
   header_text_feature_image:
   footer_text: >
     Made with <i class="far fa-fw fa-heart"></i> and powered by <a href="http://jekyllrb.com">Jekyll</a>
