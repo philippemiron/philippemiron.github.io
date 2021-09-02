@@ -4,7 +4,7 @@ title: CV
 permalink: /contributions/
 ---
 ## Education
-+ 2021–&nbsp;&nbsp;&nbsp;&nbsp;, Research Faculty, Physical Oceanography, Florida State University (COAPS)
++ 2021–    , Assistant Research Faculty, Physical Oceanography, Florida State University (COAPS)
 + 2020–2021, Assistant Scientist, Physical Oceanography, University of Miami (RSMAS)
 + 2016–2020, Postdoctoral Associate, Physical Oceanography, University of Miami (RSMAS)
 + 2012–2016, Ph. D., Experimental Fluid Dynamics, Mechanical Engineering, Polytechnique Montréal
