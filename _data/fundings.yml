@@ -4,3 +4,10 @@
   amount: '$399,576'
   date: '2019-07-15–2022-06-30'
   link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1851097
+
+- id: NSF Earthcube 2126413
+  pis: 'S. Elipot (PI), R. Lumpkin, **P. Miron** and B. Dano'
+  title: 'EarthCube Capabilities: CloudDrift: a platform for accelerating research with Lagrangian climate data'
+  amount: '$476,876'
+  date: '2021-09-01–2024-08-31'
+  #link:
