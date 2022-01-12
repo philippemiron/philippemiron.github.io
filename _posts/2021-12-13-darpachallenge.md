@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Darpa Challenge
+title: DARPA Challenge
 ---
 
-In December 2021, we finished third place, out of 32 teams, in the DARPA Forecasting Floats in Turbulence challenge.
+In December 2021, we finished third place and win $10k, out of 32 teams, in the DARPA Forecasting Floats in Turbulence challenge.
 
 The goal of the challenge was to predict the trajectory of 90 buoys in the Atlantic Ocean over a period of 10 days. To accomplish this task, we put in place a data assimilated Lagrangian framework based ocean currents, waves, winds, and past trajectories. Parameters were then optimized with available past trajectories.
 
