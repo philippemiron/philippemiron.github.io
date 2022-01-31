@@ -32,7 +32,7 @@ theme_settings:
   #youtube:
 
   # Scripts
-  google_analytics: "G-0TVEY4PH6B" # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-167579461-1" # Tracking ID, e.g. "UA-000000-01"
 
   # Localization strings
   str_follow_on: "Follow on"
