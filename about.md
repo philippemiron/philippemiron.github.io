@@ -2,10 +2,10 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: /img/portrait-pm.png
+feature-img: /img/portrait-pm.webp
 ---
 
-![]({{ site.baseurl }}/img/portrait-pm.png){:.center-image width="40%"}
+![]({{ site.baseurl }}/img/portrait-pm.webp){:.center-image width="40%"}
 
 Philippe Miron is a Research Faculty at the [Center for Ocean-Atmospheric Prediction Studies (Florida State University)](https://www.coaps.fsu.edu/){:target="_blank"}.
 

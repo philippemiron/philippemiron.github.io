@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Caribbean Marine Litter
-thumbnail-path: '/img/caribbean-ml.png'
+thumbnail-path: '/img/caribbean-ml.webp'
 short-description: Lagrangian simulation of marine litter in the Caribbean.
 ---
 
