@@ -41,6 +41,7 @@ permalink: /contributions/
 + Design and manufacture assisted by computer
 
 ## Research Committee
++ 2022, Jeanne Maingot-Lépée, Influence of ENSO on larvae recruitment in French Polynesia, Master studies project
 + 2020, Samantha Medina, Influence of buoyancy on the velocity of floating objects affected by wind and current, Undergraduate thesis
 
 ## Fieldworks
