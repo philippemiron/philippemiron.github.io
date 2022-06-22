@@ -1,9 +1,9 @@
-- title: "CloudDrift: Accelerating Lagrangian analyses of oceanic data"
-  authors: 'P. Miron, S. Elipot, R. Lumpkin and B. Dano'
+- title: 'Accelerating Lagrangian analyses of oceanic data: benchmarking typical workflows'
+  authors: '**P. Miron**, S. Elipot, R. Lumpkin and B. Dano'
   event: 2022 EarthCube Annual Meeting
   location: San Diego, CA, USA
   date: '2022-06-14'
-  path: '/archive/talks/2022-earthcube-clouddrift.pdf'
+  path: 'https://earthcube2022.github.io/ec22_book/chapters/ec22_miron_etal/README.html#accelerating-lagrangian-analyses-of-oceanic-data-benchmarking-typical-workflows'
 
 - title: "Exploring the Surface Pathways between the North Brazil Current (2°N) and the RAPID Line (26°N)"
   authors: 'K. L. Drouin, M. S. Lozier, F. J. Beron-Vera, **P. Miron** and M. J. Olascoaga'
