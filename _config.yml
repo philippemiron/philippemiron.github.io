@@ -43,7 +43,7 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "EB Garamond|EB Garamond+SemiBold&display=swap"
+  google_fonts: "EB+Garamond:wght@400;600&display=swap"
 
 # PAGINATION
 paginate: 100
