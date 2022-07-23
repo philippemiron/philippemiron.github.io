@@ -11,8 +11,8 @@ permalink: /contributions/
 
 ## Academic Employment
 + 2021–    , Assistant Research Faculty, Physical Oceanography, Florida State University (COAPS)
-+ 2020–2021, Assistant Scientist, Physical Oceanography, University of Miami (RSMAS)
-+ 2016–2020, Postdoctoral Associate, Physical Oceanography, University of Miami (RSMAS)
++ 2020–2021, Assistant Scientist, Physical Oceanography, University of Miami (Rosenstiel School)
++ 2016–2020, Postdoctoral Associate, Physical Oceanography, University of Miami (Rosenstiel School)
 
 ## Fundings
 {% for funding in site.data.fundings %}
@@ -41,13 +41,13 @@ permalink: /contributions/
 + Design and manufacture assisted by computer
 
 ## Research Committee
-+ 2022, Jeanne Maingot-Lépée, Influence of ENSO on larvae recruitment in French Polynesia, Master studies project
-+ 2020, Samantha Medina, Influence of buoyancy on the velocity of floating objects affected by wind and current, Undergraduate thesis
++ 2022, Jeanne Maingot-Lépée, Influence of ENSO on larvae recruitment in French Polynesia, Master studies project, Florida State University, Tallahassee, USA
++ 2020, Samantha Medina, Influence of buoyancy on the velocity of floating objects affected by wind and current, Undergraduate thesis, Rosenstiel School of Marine, Atmospheric, & Earth Sciences, Miami, USA
 
 ## Fieldworks
-+ April 30–May 4 2018, [AOML South Florida Program](https://www.aoml.noaa.gov/phod/sfp), South Florida
-+ April 15–May 6, 2017, [Splash Experiment](http://carthe.org/splash/), Louisiana
-+ September 12, 2016, [Bay Drift Project](http://carthe.org/baydrift/), Miami
++ April 30–May 4 2018, [AOML South Florida Program](https://www.aoml.noaa.gov/phod/sfp), South Florida, USA
++ April 15–May 6, 2017, [Splash Experiment](http://carthe.org/splash/), Louisiana, USA
++ September 12, 2016, [Bay Drift Project](http://carthe.org/baydrift/), Miami, USA
 
 ## Outreach
 + 2017–2021 [Canes on Canes](https://hurricanes.rsmas.miami.edu/outreach/index.html), bring awareness to the South Florida community about hurricanes and the impacts of climate change.
