@@ -6,8 +6,8 @@ permalink: /contributions/
 ## Education
 + 2012–2016, Ph. D., Experimental Fluid Dynamics, Mechanical Engineering, Polytechnique Montréal
 + 2010–2012, M. Sc. A, Numerical Fluid Dynamics, Mechanical Engineering, Polytechnique Montréal
-+ 2007-2008, B. Ing, Industrial Engineering, Universidad Politécnica de Madrid, Madrid
-+ 2005-2009, B. Ing., Mechanical Engineering, Polytechnique Montréal
++ 2007–2008, B. Ing, Industrial Engineering, Universidad Politécnica de Madrid, Madrid
++ 2005–2009, B. Ing., Mechanical Engineering, Polytechnique Montréal
 
 ## Academic Employment
 + 2021–    , Assistant Research Faculty, Physical Oceanography, Florida State University (COAPS)
@@ -45,12 +45,12 @@ permalink: /contributions/
 + 2020, Samantha Medina, Influence of buoyancy on the velocity of floating objects affected by wind and current, Undergraduate thesis
 
 ## Fieldworks
-+ April 30—May 4 2018, [AOML South Florida Program](https://www.aoml.noaa.gov/phod/sfp), South Florida
-+ April 15—May 6, 2017, [Splash Experiment](http://carthe.org/splash/), Louisiana
++ April 30–May 4 2018, [AOML South Florida Program](https://www.aoml.noaa.gov/phod/sfp), South Florida
++ April 15–May 6, 2017, [Splash Experiment](http://carthe.org/splash/), Louisiana
 + September 12, 2016, [Bay Drift Project](http://carthe.org/baydrift/), Miami
 
 ## Outreach
-+ 2017—2021 [Canes on Canes](https://hurricanes.rsmas.miami.edu/outreach/index.html), bring awareness to the South Florida community about hurricanes and the impacts of climate change.
++ 2017–2021 [Canes on Canes](https://hurricanes.rsmas.miami.edu/outreach/index.html), bring awareness to the South Florida community about hurricanes and the impacts of climate change.
 + 2018–2019 [Ocean Kids](https://www.rsmas.miami.edu/community-and-giving/outreach/ocean-kids/index.html), sharing love for science and ocean conservation with children from underserved Greater Miami communities.
 
 ## Skills
