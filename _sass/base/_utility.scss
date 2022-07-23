@@ -6,9 +6,9 @@
   }
 }
 %padding-regular {
-  padding: $padding-small $padding-large;
+  padding: $padding-small * 0.25 $padding-large;
   @media (max-width: 1000px) {
-    padding: $padding-small * 1.5 $padding-large / 2.3;
+    padding: $padding-small * 0.5 $padding-large / 2.3;
   }
 }
 %padding-header {

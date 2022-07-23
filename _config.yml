@@ -15,7 +15,7 @@ theme_settings:
      <p>Turning geoscience data into science at Florida State University (COAPS)<p>
   header_text_feature_image:
   footer_text: >
-    Made with <i class="far fa-fw fa-heart"></i> and powered by <a href="http://jekyllrb.com">Jekyll</a>
+    Made with <i class="fa-regular fa-heart"></i> and powered by <a href="http://jekyllrb.com">Jekyll</a>
   # Icons
   rss: false
   email_address: pmiron@fsu.edu
