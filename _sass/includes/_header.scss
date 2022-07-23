@@ -1,19 +1,20 @@
 .site-header {
   @extend %padding-small;
   background: $brand-color;
-  border-top:5px solid $header-desc-background-color;
+  border-top:10px solid $header-desc-background-color;
   display: inline-block;
   width: 100%;
 
   a {
     color: $header-link-color;
-    font-size: 1.5em;
+    font-size: 1.25em;
+    line-height: 0em;
   }
 
   .site-title {
     font-weight: bold;
-    font-size: 1.75em;
-    line-height: 1.0em;
+    font-size: 1.5em;
+    line-height: 0em;
   }
 
   .site-nav {
@@ -21,7 +22,7 @@
       margin: 0;
       padding: 0;
       list-style: none;
-      line-height: 1.5;
+      line-height: 1.0em;
       float: right;
       text-align: right;
     }
