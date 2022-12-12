@@ -20,6 +20,7 @@ theme_settings:
   rss: false
   email_address: pmiron@fsu.edu
   twitter: philippemiron
+  mastodon: https://fosstodon.org/@pmiron # full url
   github: philippemiron
   uwebsite: https://www.coaps.fsu.edu # university group website
   researchgate: Philippe_Miron
