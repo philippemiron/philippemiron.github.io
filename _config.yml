@@ -11,8 +11,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Assistant Research Faculty</h1>
-     <p>Turning geoscience data into science at Florida State University (COAPS)<p>
+     <h1>Senior Scientific Engineer at DTN</h1>
+     <p>Adjunct Faculty at Florida State University (COAPS)<p>
   header_text_feature_image:
   footer_text: >
     Made with <i class="fa-regular fa-heart"></i> and powered by <a href="http://jekyllrb.com">Jekyll</a>

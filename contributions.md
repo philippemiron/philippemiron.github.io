@@ -9,8 +9,12 @@ permalink: /contributions/
 + 2007–2008, B. Ing, Industrial Engineering, Universidad Politécnica de Madrid, Madrid
 + 2005–2009, B. Ing., Mechanical Engineering, Polytechnique Montréal
 
+## Employment
++ 2023–    , Senior Scientific Engineer, DTN
+
 ## Academic Employment
-+ 2021–    , Assistant Research Faculty, Physical Oceanography, Florida State University (COAPS)
++ 2023–    , Adjunct Faculty, Physical Oceanography, Florida State University (COAPS)
++ 2021–2023, Assistant Research Faculty, Physical Oceanography, Florida State University (COAPS)
 + 2020–2021, Assistant Scientist, Physical Oceanography, University of Miami (Rosenstiel School)
 + 2016–2020, Postdoctoral Associate, Physical Oceanography, University of Miami (Rosenstiel School)
 

@@ -4,19 +4,19 @@ layout: default
 
 <div class="home">
   <div class="work">
-    <h2>Latest research topics</h2>
+    <h2>Past research topics</h2>
     {% for project in site.projects limit:5 %}
     <div class="project">
       <div class="project-thumb">
         <a href="{{ project.url | prepend: site.baseurl }}">
-          <img src="{{ project.thumbnail-path }}" width="425" alt="{{ project.title }}"/>
+          <img src="{{ project.thumbnail-path }}" width="425" alt="{{ project.title }}" />
         </a>
       </div>
       <div class="project-description">
         <h3><a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a></h3>
         <p>{{ project.short-description }} <a href="{{ project.url | prepend: site.baseurl }}">
-          {{ site.theme_settings.str_continue_reading }}
-        </a></p>
+            {{ site.theme_settings.str_continue_reading }}
+          </a></p>
       </div>
 
     </div>
@@ -52,13 +52,13 @@ layout: default
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button">
       <i class="fa fa-chevron-left"></i>
       {{ site.theme_settings.str_prev }}
     </a>
     {% endif %}
     {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button">
       {{ site.theme_settings.str_next }}
       <i class="fa fa-chevron-right"></i>
     </a>

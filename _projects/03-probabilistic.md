@@ -10,7 +10,7 @@ There exists many large Lagrangian data sets such as the one maintained by the  
 
 ![]({{ site.baseurl }}/img/pf-trajectories.webp){:.center-image width='90%'}
 
-With all those informations, how can we *forecast* the dispersion of a passive tracer at the surface of the ocean such as oil, plastics or larvae? and more importantly how can we extract information encoded into a Lagrangian data sets.
+With all this information, how can we *forecast* the dispersion of a passive tracer at the surface of the ocean such as oil, plastics or larvae? and more importantly how can we extract information encoded into a Lagrangian data sets.
 
 ## Development
 Probabilistic methods allows to combine the information contains in trajectories into a tool called the Transfer Operator. The discrete version of this operator is the transition matrix *P*, and each entry of the matrix *P<sub>ij</sub>* represents the probability of moving from bin *i* to bin *j* during the fixed transition time *T*. Acting as a Markov Chain of the underlying dynamics, this operator allows for the forecast of a system based *only* on current observations.
