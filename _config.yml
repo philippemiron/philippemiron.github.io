@@ -1,13 +1,13 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "https://philippemiron.github.io/" # the base hostname & protocol for your site
+url: "philippemiron.github.io" # the base hostname & protocol for your site
 include: [".well-known"] # keybase
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: Philippe Miron Ph. D. # Your name will go here
-  description: "Personal website" # used by search engines
+  description: "Personal website data science machine learning artificial intelligence" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -15,11 +15,11 @@ theme_settings:
      <p>Adjunct Faculty at Florida State University (COAPS)<p>
   header_text_feature_image:
   footer_text: >
-    Made with <i class="fa-regular fa-heart"></i> and powered by <a href="http://jekyllrb.com">Jekyll</a>
+    Made with <i class="fa-regular fa-heart"></i> and free time; powered by <a href="http://jekyllrb.com">Jekyll</a>.
   # Icons
   rss: false
-  email_address: pmiron@fsu.edu
-  twitter: philippemiron
+  email_address: philippemiron@gmail.com
+  x: philippemiron
   mastodon: https://fosstodon.org/@pmiron # full url
   github: philippemiron
   researchgate: Philippe_Miron
@@ -41,14 +41,15 @@ theme_settings:
   str_next: "Next"
   str_prev: "Prev"
   str_continue_reading: "Read more &raquo;"
+  str_continue_reading_redirect: "Continue reading on Medium &raquo;"
 
-  # Colours, typography and padding
+  # Colors, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
   google_fonts: "EB+Garamond:wght@400;800&display=swap"
 
 # PAGINATION
-paginate: 100
-paginate_path: "blog/page:num"
+#paginate: 4
+#paginate_path: "blog/page:num"
 
 # COLLECTIONS
 collections:
@@ -63,5 +64,5 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-plugins:
-  - jekyll-paginate
+#plugins:
+#  - jekyll-paginate
