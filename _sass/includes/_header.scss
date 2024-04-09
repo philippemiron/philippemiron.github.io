@@ -13,8 +13,9 @@
 
   .site-title {
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.75em;
     line-height: 0em;
+    margin-top: 0.5em;
   }
 
   .site-nav {
@@ -34,7 +35,6 @@
     @media (max-width: 1100px) {
       ul {
         display: inline-block;
-        float: left;
         padding-top: $padding-small;
         text-align: left;
         width: 100%;
