@@ -6,6 +6,7 @@ short-description: Markov Chain toolbox to analyze Lagrangian data sets of surfa
 ---
 
 ## Problem
+
 There exists many large Lagrangian data sets such as the one maintained by the  [Global Drifter Program (GPD)](https://www.aoml.noaa.gov/phod/gdp) and the [WOCE Subsurface float Data Assembly Center](https://www.aoml.noaa.gov/phod/float_traj/data.php). For example, the following figure shows the trajectories of 152 RAFOS floats deployed at 1500 m (left) and 2500 m (right) during a 4-yr-long program in the Gulf of Mexico (Hamilton et al. 2016).
 
 ![]({{ site.baseurl }}/img/pf-trajectories.webp){:.center-image width='90%'}
@@ -13,6 +14,7 @@ There exists many large Lagrangian data sets such as the one maintained by the  
 With all this information, how can we *forecast* the dispersion of a passive tracer at the surface of the ocean such as oil, plastics or larvae? and more importantly how can we extract information encoded into a Lagrangian data sets.
 
 ## Development
+
 Probabilistic methods allows to combine the information contains in trajectories into a tool called the Transfer Operator. The discrete version of this operator is the transition matrix *P*, and each entry of the matrix *P<sub>ij</sub>* represents the probability of moving from bin *i* to bin *j* during the fixed transition time *T*. Acting as a Markov Chain of the underlying dynamics, this operator allows for the forecast of a system based *only* on current observations.
 
 ## Applications
@@ -26,6 +28,7 @@ As a second example, the Markov-chain model is used to estimate the probabilisti
 ![]({{ site.baseurl }}/img/pf-examples.webp){:.center-image width='90%'}
 
 ## Open science
+
 The **py**thon [**G**eophysical **T**ransition **M**atrix (**pygtm**)](https://github.com/philippemiron/pygtm) toolbox, as well as many examples and methodology presented in previous publications, are available to the community.
 
 ## Sources
