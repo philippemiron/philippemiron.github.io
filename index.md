@@ -1,6 +1,7 @@
 ---
 layout: main-page
-hide: true
+title: Home
+order: 0
 ---
 
 ## Welcome 👋
