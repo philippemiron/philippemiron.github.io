@@ -1,5 +1,6 @@
 ---
 layout: main-page
+hide: true
 ---
 
 ## Welcome 👋
