@@ -12,7 +12,7 @@ order: 2
 
 ## Employment
 + 2023--    , Senior Scientific Engineer, DTN
-+ 2022--2022, Machine Learning Intern, NewSci
++ 2022--2022, Data Scientist Intern, NewSci
 
 ## Academic Employment
 + 2023--    , Adjunct Faculty, Physical Oceanography, Florida State University (COAPS)
@@ -51,8 +51,8 @@ order: 2
 + 2020, Samantha Medina, Influence of buoyancy on the velocity of floating objects affected by wind and current, Undergraduate thesis, Rosenstiel School of Marine, Atmospheric, & Earth Sciences, Miami, USA
 
 ## Fieldworks
-+ April 30–May 4 2018, [AOML South Florida Program](https://www.aoml.noaa.gov/phod/sfp), South Florida, USA
-+ April 15–May 6, 2017, [Splash Experiment](http://carthe.org/splash/), Louisiana, USA
++ April 30--May 4 2018, [AOML South Florida Program](https://www.aoml.noaa.gov/phod/sfp), South Florida, USA
++ April 15--May 6, 2017, [Splash Experiment](http://carthe.org/splash/), Louisiana, USA
 + September 12, 2016, [Bay Drift Project](http://carthe.org/baydrift/), Miami, USA
 
 ## Outreach
@@ -60,27 +60,35 @@ order: 2
 + 2018–2019 [Ocean Kids](https://www.rsmas.miami.edu/community-and-giving/outreach/ocean-kids/index.html), sharing love for science and ocean conservation with children from underserved Greater Miami communities.
 
 ## Skills
-+ Scientific communication
-    + Conferences
-    + Data visualization and presentation (LaTeX, Matplotlib, TikZ, Tecplot, Paraview)
-+ Computational
+- Programming
+  - Python (torch, numpy, pandas)
+  - C/C++
+  - Arduino
+- DevOps
+  - AWS
+  - Gitlab CI/CD
+  - Docker
+  - Kubernetes
+  - Terraform
+  - Helm
+- Scientific communication
+  - Conferences
+  - Data visualization and presentation (LaTeX, Matplotlib, TikZ, Tecplot, Paraview)
+- Computational
   - Finite Element Method
   - Lagrangian Analysis
   - Post-processing techniques
-+ Experimental
+- Experimental
   - Particle image velocimetry
   - Laser doppler velocimetry
   - Hot wire anemometer
   - Polarographic method
-+ Programming
-  - Python
-  - C/C++
-  - Arduino
-+ Technical softwares
+
+- Technical softwares
   - Catia/Solidworks
 
 ## Languages
-+ French (native)
-+ English (excellent knowledge)
-+ Spanish (good knowledge)
-+ Portuguese (beginner)
+- French (native)
+- English (excellent knowledge)
+- Portuguese (good knowledge)
+- Spanish (good knowledge)
