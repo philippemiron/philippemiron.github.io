@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Brazil oil spill
+category: academia
 ---
 
 The oil spill started on August 30, 2019 and has affected over 2000 km of coastline in Northeast Brazil. The incident is already the biggest oil spill in Brazilian history and one of the worst environment disaster (source Folha de São Paulo) and as of today, the origin of the oil spill is still unknown.

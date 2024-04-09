@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Garbage patches
+category: academia
 ---
 
 We used transition path theory (TPT) to infer “reactive” pathways of floating marine debris trajectories. The TPT analysis was applied on a pollution-aware time-homogeneous Markov-chain model constructed from trajectories produced by satellite-tracked undrogued buoys from the National Oceanic and Atmospheric Administration's Global Drifter Program.

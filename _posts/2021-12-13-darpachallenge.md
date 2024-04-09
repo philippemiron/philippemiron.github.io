@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DARPA Challenge
+category: academia
 ---
 
 In December 2021, we finished third place and win $10k, out of 32 teams, in the DARPA Forecasting Floats in Turbulence challenge.
