@@ -11,11 +11,11 @@ order: 2
 + 2005--2009, B. Ing., Mechanical Engineering, Polytechnique Montréal
 
 ## Employment
-+ 2023--    , Senior Scientific Engineer, DTN
++ 2023--Now, Senior Scientific Engineer, DTN
 + 2022--2022, Data Scientist Intern, NewSci
 
 ## Academic Employment
-+ 2023--    , Adjunct Faculty, Physical Oceanography, Florida State University (COAPS)
++ 2023--Now, Adjunct Faculty, Physical Oceanography, Florida State University (COAPS)
 + 2021--2023, Assistant Research Faculty, Physical Oceanography, Florida State University (COAPS)
 + 2020--2021, Assistant Scientist, Physical Oceanography, University of Miami (Rosenstiel School)
 + 2016--2020, Postdoctoral Associate, Physical Oceanography, University of Miami (Rosenstiel School)
