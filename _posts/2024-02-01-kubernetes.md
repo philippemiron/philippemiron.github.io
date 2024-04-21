@@ -69,7 +69,7 @@ mkdir -p $HOME/.kube
 cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
 chown $(id -u):$(id -g) $HOME/.kube/config
 ```
-Note: `kubeadm` will output `kubeadm join ...` with the required configuration for worker nodes to `join` the cluster.
+Note: `kubeadm` will output `kubeadm join ...` with the required configuration for worker nodes to join the cluster.
 
 Finally, we have to deploy the pod network. There are difference options, I went with calico without really looking at the pros and cons.
 ```
