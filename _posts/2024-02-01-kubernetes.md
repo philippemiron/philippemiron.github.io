@@ -14,7 +14,7 @@ Of course, to create a cluster you need multiple machines and some space—somet
 In summary, the idea is to install the OS, Kubernetes, and all the dependencies on a single virtual machine. Then, before initializing the Kubernetes cluster, we can copy this virtual machine to create the worker nodes. Once All the VMs are ready, we will initialize the Kubernetes on the main node and link the worker nodes.
 
 ## OS installation
-I decided to go with Archlinux. Why? Because I think it's the best distribution around, [`pacman`](https://wiki.archlinux.org/title/pacman) is amazing, the documentation is great, and I have been using it since ~2005. 
+I decided to go with Archlinux. Why? Because I think it's the best distribution around, [`pacman`](https://wiki.archlinux.org/title/pacman) is amazing, the documentation is great, and I have been using it since ~2005.
 
 Note: I would probably not recommend Archlinux for production due to its rolling-release nature; in a homelab settings, things are allow to break.
 
@@ -30,7 +30,7 @@ pacman -S grub vim dhcpcd sudo devtools base-devel
 some of those require additional configurations. For example, you must add your user to the sudoers group ([sudo](https://wiki.archlinux.org/title/sudo)).
 
 ## Networking
-I setup bridged networking for the VM settings, so they appear like standalone machines the network from the router point of view. That way it is simple to set up hostname and static ip on the router for all the nodes (e.g. `arch: 192.168.0.200`, `archw1: 192.168.0.201`, `archw2: 192.168.0.202`).
+I setup bridged networking for the VM settings, so they appear like standalone machines on the network from the router point of view. That way it is simple to set up hostname and static ip on the router for each node (e.g. `arch: 192.168.0.200`, `archw1: 192.168.0.201`, `archw2: 192.168.0.202`).
 
 If the machine already has another IP assigned and a DHCP lease, rebooting the router should trigger a renewal.
 
