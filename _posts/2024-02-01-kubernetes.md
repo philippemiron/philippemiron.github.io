@@ -20,19 +20,19 @@ Note: I would probably not recommend Archlinux for production due to its rolling
 
 The installation process is pretty straightforward following the offical [guide](https://wiki.archlinux.org/title/installation_guide) and using the live system from an [installation medium](https://archlinux.org/download/).
 
-Some important notes:
+### Some important notes
 - Kubernetes does not like `swap`, so make sure it is deactivate (`swapoff -a`) and not present in `/etc/fstab`. More details, in [Archlinux Kubernetes](https://wiki.archlinux.org/title/Kubernetes).
-- (Almost) mandatory packages:
+- `dhcpcd.service` is executed by default on the live system, make sure to enable it before rebooting, `systemctl enable dhcpcd.service`.
+- Required packages:
 ```
 pacman -S grub vim dhcpcd sudo devtools base-devel
 ```
-some of those, like sudo, require some configurations.
-- `dhcpcd.service` is executed by default on the live system, make sure to enable it before rebooting, `systemctl enable dhcpcd.service`.
+some of those require additional configurations. For example, you must add your user to the sudoers group ([sudo](https://wiki.archlinux.org/title/sudo)).
 
 ## Networking
-I setup bridged networking for the VM, so they appear like standalone machines on the network. That way it is simple to set up static ip on the router for the main and worker nodes (e.g. `arch: 192.168.0.200`, `archw1: 192.168.0.201`, `archw2: 192.168.0.202`).
+I setup bridged networking for the VM settings, so they appear like standalone machines the network from the router point of view. That way it is simple to set up hostname and static ip on the router for all the nodes (e.g. `arch: 192.168.0.200`, `archw1: 192.168.0.201`, `archw2: 192.168.0.202`).
 
-If the machine already has another IP assigned and a DHCP lease, rebooting the router should trigger an IP renewal.
+If the machine already has another IP assigned and a DHCP lease, rebooting the router should trigger a renewal.
 
 ## Docker
 This step is self explanatory:
