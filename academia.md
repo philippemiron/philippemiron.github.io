@@ -7,7 +7,7 @@ order: 1
 
 ## Archived projects (2016–2023)
 
-I thought about creating another site for Academia, but I decided to keep everything in one place for simplicity.
+I thought about creating another site for Academia, but I decided to keep everything in here for simplicity.
 
 {% for project in site.projects %}
 ### [{{project.title}}]({{project.url}})
