@@ -65,12 +65,15 @@ th {
 table,
 dl,
 blockquote,
-code,
+code {
+    font-size: 0.8em;
+}
 kbd,
 pre,
 samp {
   margin: 1em 0;
 }
+
 pre {
   padding:1em;
 }
