@@ -163,7 +163,7 @@ assert table[MAX_SIZE+1] == (9, 4)
 assert table[1] == (4, 9)
 
 # assert size
-len(table) == 5
+assert len(table) == 4
 
 # print hash table
 print(table)
