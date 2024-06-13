@@ -146,16 +146,24 @@ class HashTable:
 table = HashTable()
 table["🚀"] = 1
 table["b"] = "linux"
-table[10] = (4, 9)
+table[1] = (4, 9)
 
 # assert set
 assert table["🚀"] == 1
 assert table["b"] == "linux"
-assert table[10] == (4, 9)
+assert table[1] == (4, 9)
 
 # assert modify
-table[10] = 0
-assert table[10] == 0
+table["b"] = "macOS"
+assert table["b"] == "macOS"
+
+# assert collision
+table[MAX_SIZE+1] = (9, 4)
+assert table[MAX_SIZE+1] == (9, 4)
+assert table[1] == (4, 9)
+
+# assert size
+len(table) == 5
 
 # print hash table
 print(table)
