@@ -16,7 +16,7 @@ One of the utility of hashing is to validate the integrity of a file, a message,
 MD5 (secret.md) = d7aa89920e4edaad0ae513e60b6f12a8
 ```
 
-the md5 (a hashing function) returns its hashed value, `d7aa89920e4edaad0ae513e60b6f12a8`, a 32-character hexadecimal number (128 bits). If we modify the message inside the file, simulating a data loss.
+the md5 (a hashing function) returns the hashed value of all content of the file as a 32-character hexadecimal number (128 bits, `d7aa89920e4edaad0ae513e60b6f12a8`. If we modify the message inside the file, simulating a data loss or tampering.
 
 ```zsh
 > echo "I like papaya." > secret.md; md5 secret.md
@@ -26,7 +26,7 @@ the resulting hash is different. Now back to our data structure.
 
 ## Dictionary implementation
 
-*A dictionary in programming is a data structure that stores key-value pairs. Each value is stored/accessed using a key, which is hashed to determine its index in the underlying list.*
+A dictionary is a data structure that stores *key-value* pairs. Each value is stored (and accessed) using its key, which is hashed to determine its index in the underlying list.
 
 In Python, there is a `hash` function part of the standard library.
 ```python
@@ -37,7 +37,7 @@ In Python, there is a `hash` function part of the standard library.
 >>> hash("Hello")
 5232884906401865102
 ```
-we can see that hashes of integers are directly the integers themselves, while strings are hashed to very large values. Important to note that the hash function returns a different value for "hello" and "Hello" to allow the usage of case sensitive keys to access the data.
+We can see that hashes of integers are directly the integers themselves, while strings are hashed to long integers. Important to note that the hash function returns a different value for "hello" and "Hello" to allow the usage of case sensitive keys to access the data.
 
 To map a key to its index, we can take the modulo of the hash with respect to the size of our hash table. Let's say we defined an underlying list to store the data (`self.data`) with 1000 empty elements, the `index_from_key` can be defined as follow:
 
@@ -79,11 +79,11 @@ That can be implemented as follow:
                 return v
         raise KeyError(f"Key {key} not found")
 ```
-and looping the retrieved values and comparing if the current key mathces (`if k == key:`). If we have a handful of keys to compare, it is still much faster than having to look all the elements of a the list, hence can be considered O(1).
+and looping the retrieved values and comparing if the current key matches (`if k == key:`). If we have a handful of keys to compare, it is still much faster than having to look all the elements of a the list, hence can be considered O(1).
 
 ## Optimization
 
-While this is a very simple implementation, dictionaries are a fundamental and highly efficient data structure in Python, used extensively throughout the language. The complete implementation in CPython is significantly more complex 🥵 than the 50 lines of code below. For those interested, you can explore the full source code ([cpython/Objects
+While this is a very simple implementation, dictionaries are a fundamental and highly efficient data structure in Python, used extensively throughout the language. The complete implementation in CPython is significantly more complex 🥵 than the 50 lines of code below. For those interested, you can explore the complete source code ([cpython/Objects
 /dictobject.c](https://github.com/python/cpython/blob/main/Objects/dictobject.c)).
 
 ## Code
