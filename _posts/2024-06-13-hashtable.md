@@ -5,26 +5,26 @@ category: tech
 external-url:
 ---
 
-Ever wonder why searching in a list is O(N) but in a dictionary is O(1)? I implemented a python class to implement a `dict` and understand all the beauty of the data structure.
+Ever wonder why searching in a list is O(N) but in a dictionary is O(1)? I implemented a simple python class to reimplement a `dict` and understand all the *beauty* of this data structure.
 
-The first hint is in the title of the article, a hash table. To understand, we first need to understand what is a hash function.
+The first hint is in the title of the article, a hash table. To understand, we first need to know what is a hash function. From Wikipedia, "A hash function is any function that can be used to map data of arbitrary size to fixed-size values".
 
-Wikipedia: A hash function is any function that can be used to map data of arbitrary size to fixed-size values.
-
-For this reason, hashing is used for validation the integrity of a file. For example, if you have a file with a secret message.
+One of the utility of hashing is to validate the integrity of a file, a message, or a transaction. For example, if you have a file `secret.md` with a secret message.
 
 ```zsh
-> echo "Secret message" > secret.md; md5 secret.md
-MD5 (secret.md) = 4182869b2f45e09415a61397feab5f55
+> echo "I don't like papaya." > secret.md; md5 secret.md
+MD5 (secret.md) = d7aa89920e4edaad0ae513e60b6f12a8
 ```
 
-the md5 (a hashing function) returns `4182869b2f45e09415a61397feab5f55`. If we modify the message inside the file, simulating a data loss.
+the md5 (a hashing function) returns its hashed value, `d7aa89920e4edaad0ae513e60b6f12a8`, a 32-character hexadecimal number (128 bits). If we modify the message inside the file, simulating a data loss.
 
 ```zsh
-> echo "Secret messag" > secret.md; md5 secret.md
-MD5 (secret.md) = fef0cfda1a2b88f95ff99683d75a65f5
+> echo "I like papaya." > secret.md; md5 secret.md
+MD5 (secret.md) = 59ebb8853dcd6b4d0d9eca6f26453d79
 ```
-the hash is different.
+the resulting hash is different. Now back to our data structure.
+
+## Dictionary implementation
 
 *A dictionary in programming is a data structure that stores key-value pairs. Each value is stored/accessed using a key, which is hashed to determine its index in the underlying list.*
 
@@ -37,7 +37,7 @@ In Python, there is a `hash` function part of the standard library.
 >>> hash("Hello")
 5232884906401865102
 ```
-we can see that the integer maps directly to integer, while strings maps to very large values. Important to note that the hash function returns a different value for "hello" and "Hello" to allow the usage of case sensitive keys to access our data structure.
+we can see that hashes of integers are directly the integers themselves, while strings are hashed to very large values. Important to note that the hash function returns a different value for "hello" and "Hello" to allow the usage of case sensitive keys to access the data.
 
 To map a key to its index, we can take the modulo of the hash with respect to the size of our hash table. Let's say we defined an underlying list to store the data (`self.data`) with 1000 empty elements, the `index_from_key` can be defined as follow:
 
