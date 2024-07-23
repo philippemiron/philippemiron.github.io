@@ -1,3 +1,9 @@
+- title: "Clouddrift: a Python package to accelerate the use of Lagrangian data for atmospheric, oceanic, and climate sciences"
+  authors: 'S. Elipot, **P. Miron**, M. Curcic, K. Santana, and R. Lumpkin'
+  journal: Journal of Open Source Software
+  year: '2024'
+  doi: https://joss.theoj.org/papers/10.21105/joss.06742
+
 - title: Seasonality of Marine Litter Hotspots in the Wider Caribbean Region
   authors: 'X. Xu, E.P. Chassignet, **P. Miron** and O. Zavala-Romero'
   journal: Journal of Marine Science and Engineering
