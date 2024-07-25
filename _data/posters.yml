@@ -1,4 +1,11 @@
-- title: Sampling-Dependent Transition Paths of Iceland–Scotland OverflowWater
+- title: Accelerating the use of Lagrangian data with CloudDrift
+  authors: 'K. Santana, S. Elipot, **P. Miron** and M. Curcic'
+  event: 23rd annual SciPy conference
+  location: Tacoma, USA
+  date: '2024-07-10'
+  path: '/archive/posters/2024-scipy-clouddrift.pdf'
+
+- title: Sampling-Dependent Transition Paths of Iceland–Scotland Overflow Water
   authors: '**P. Miron**'
   event: Transport and Scale Interactions in Geophysical Flows at Mathematisches Forschungsinstitut Oberwolfach (MFO)
   location: Hausach, Germany
@@ -6,7 +13,7 @@
   path: '/archive/posters/2023-mfo.pdf'
 
 - title: Identifying ocean Lagrangian coherent vortices using machine learning and altimetry sea surface height
-  authors: 'L. Hiron, O. Zavala-Romero, **P. Miron**'
+  authors: 'L. Hiron, O. Zavala-Romero and **P. Miron**'
   event: MLx23
   location: Tallahassee, USA
   date: '2023-04-22'
