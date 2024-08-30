@@ -7,11 +7,11 @@ include: [".well-known"] # keybase
 theme_settings:
   # Meta
   title: Philippe Miron Ph. D. # Your name will go here
-  description: "Personal website data science machine learning artificial intelligence" # used by search engines
+  description: "Personal website artificial intelligence data science machine learning" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Senior Scientific Engineer at DTN</h1>
+     <h1>AI Engineer at Premera Blue Cross</h1>
      <p>Adjunct Faculty at Florida State University (COAPS)<p>
   header_text_feature_image:
   footer_text: >
