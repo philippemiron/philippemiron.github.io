@@ -15,7 +15,7 @@ theme_settings:
      <p>Adjunct Faculty at Florida State University (COAPS)<p>
   header_text_feature_image:
   footer_text: >
-    Made with <i class="fa-regular fa-heart"></i> and free time; powered by <a href="http://jekyllrb.com">Jekyll</a>.
+    Crafted with <i class="fa-regular fa-heart"></i>, a spark of curiosity, and the gift of time; powered by <a href="http://jekyllrb.com">Jekyll</a>.
   # Icons
   rss: false
   email_address: philippemiron@gmail.com
@@ -60,9 +60,9 @@ collections:
 # BUILD SETTINGS
 markdown: kramdown
 
-sass:
-  sass_dir: _sass
-  style: :compressed
+# sass:
+#   sass_dir: _sass
+#   style: :compressed
 
 #plugins:
 #  - jekyll-paginate
