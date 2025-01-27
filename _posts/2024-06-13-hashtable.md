@@ -55,7 +55,7 @@ with the `self.data` a list containing 1000 empty lists to store the dictionnary
 
 ## Collision
 
-If we go back to the md5 hashing function, the probability of the hashed value accidentally  "colliding", i.e two different inputs producing the same hashed value, is 1/2**128. In our case here, with only 1000 indices, the likelihood of colliding is much higher, e.g. `index_from_key(1) == index_from_key(1001)`. To handle collisions, we can store multiple elements as `(key, value)` at the same index in a list, ensuring all entries are retained.
+If we go back to the md5 hashing function, the probability of the hashed value accidentally  "colliding", i.e two different inputs producing the same hashed value, is 1/2**128. In our case here, with only 1000 indices, the likelihood of colliding is much higher, e.g. `index_from_key(0) == index_from_key(1000)`. To handle collisions, we can store multiple elements as `(key, value)` at the same index in a list, ensuring all entries are retained.
 
 That can be implemented as follow:
 
@@ -146,21 +146,21 @@ class HashTable:
 table = HashTable()
 table["🚀"] = 1
 table["b"] = "linux"
-table[1] = (4, 9)
+table[0] = (4, 9)
 
 # assert set
 assert table["🚀"] == 1
 assert table["b"] == "linux"
-assert table[1] == (4, 9)
+assert table[0] == (4, 9)
 
 # assert modify
 table["b"] = "macOS"
 assert table["b"] == "macOS"
 
 # assert collision
-table[MAX_SIZE+1] = (9, 4)
-assert table[MAX_SIZE+1] == (9, 4)
-assert table[1] == (4, 9)
+table[MAX_SIZE] = (9, 4)
+assert table[MAX_SIZE] == (9, 4)
+assert table[0] == (4, 9)
 
 # assert size
 assert len(table) == 4
