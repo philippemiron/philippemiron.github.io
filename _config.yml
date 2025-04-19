@@ -19,8 +19,8 @@ theme_settings:
   # Icons
   rss: false
   email_address: philippemiron@gmail.com
-  x: philippemiron
   mastodon: https://fosstodon.org/@pmiron # full url
+  bluesky: pmiron.bsky.social
   github: philippemiron
   researchgate: Philippe_Miron
   instagram: philippemiron

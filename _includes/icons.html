@@ -7,20 +7,11 @@
 </li>
 {% endif %}
 
-{% if site.theme_settings.x %}
+{% if site.theme_settings.linkedin %}
 <li>
-	<a href="https://x.com/{{ site.theme_settings.x }}" target="_blank"
-		title="{{ site.theme_settings.str_follow_on }} X">
-		<i class="fa-brands fa-x-twitter"></i>
-	</a>
-</li>
-{% endif %}
-
-{% if site.theme_settings.mastodon %}
-<li>
-	<a href="{{ site.theme_settings.mastodon }}" target="_blank"
-		title="{{ site.theme_settings.str_follow_on }} Mastodon">
-		<i class="fa-brands fa-mastodon"></i>
+	<a href="https://www.linkedin.com/in/{{ site.theme_settings.linkedin }}" target="_blank"
+		title="{{ site.theme_settings.str_follow_on }} LinkedIn">
+		<i class="fa-brands fa-linkedin-in"></i>
 	</a>
 </li>
 {% endif %}
@@ -30,6 +21,24 @@
 	<a href="https://github.com/{{ site.theme_settings.github }}" target="_blank"
 		title="{{ site.theme_settings.str_follow_on }} GitHub">
 		<i class="fa-brands fa-github"></i>
+	</a>
+</li>
+{% endif %}
+
+{% if site.theme_settings.bluesky %}
+<li>
+	<a href="https://bsky.app/profile/{{ site.theme_settings.bluesky }}" target="_blank"
+		title="{{ site.theme_settings.str_follow_on }} Bluesky">
+		<i class="fa-brands fa-bluesky"></i>
+	</a>
+</li>
+{% endif %}
+
+{% if site.theme_settings.mastodon %}
+<li>
+	<a href="{{ site.theme_settings.mastodon }}" target="_blank"
+		title="{{ site.theme_settings.str_follow_on }} Mastodon">
+		<i class="fa-brands fa-mastodon"></i>
 	</a>
 </li>
 {% endif %}
@@ -61,15 +70,6 @@
 </li>
 {% endif %}
 
-{% if site.theme_settings.linkedin %}
-<li>
-	<a href="https://www.linkedin.com/in/{{ site.theme_settings.linkedin }}" target="_blank"
-		title="{{ site.theme_settings.str_follow_on }} LinkedIn">
-		<i class="fa-brands fa-linkedin-in"></i>
-	</a>
-</li>
-{% endif %}
-
 {% if site.theme_settings.instagram %}
 <li>
 	<a href="http://instagram.com/{{ site.theme_settings.instagram }}" target="_blank"
@@ -79,40 +79,49 @@
 </li>
 {% endif %}
 
-<! –– not using right now -->
+<!-- not using right now -->
 
-	{% if site.theme_settings.facebook %}
-	<li>
-		<a href="https://www.facebook.com/{{ site.theme_settings.facebook }}" target="_blank"
-			title="{{ site.theme_settings.str_follow_on }} Facebook">
-			<i class="fa-brands fa-facebook"></i>
-		</a>
-	</li>
-	{% endif %}
+{% if site.theme_settings.facebook %}
+<li>
+	<a href="https://www.facebook.com/{{ site.theme_settings.facebook }}" target="_blank"
+		title="{{ site.theme_settings.str_follow_on }} Facebook">
+		<i class="fa-brands fa-facebook"></i>
+	</a>
+</li>
+{% endif %}
 
-	{% if site.theme_settings.reddit %}
-	<li>
-		<a href="https://www.reddit.com/user/{{ site.theme_settings.reddit }}" target="_blank"
-			title="{{ site.theme_settings.str_follow_on }} Reddit">
-			<i class="fa-brands fa-reddit"></i>
-		</a>
-	</li>
-	{% endif %}
+{% if site.theme_settings.reddit %}
+<li>
+	<a href="https://www.reddit.com/user/{{ site.theme_settings.reddit }}" target="_blank"
+		title="{{ site.theme_settings.str_follow_on }} Reddit">
+		<i class="fa-brands fa-reddit"></i>
+	</a>
+</li>
+{% endif %}
 
-	{% if site.theme_settings.stack_exchange %}
-	<li>
-		<a href="{{ site.theme_settings.stack_exchange }}" target="_blank"
-			title="{{ site.theme_settings.str_follow_on }} Stack Exchange">
-			<i class="fa-brands fa-stack-exchange"></i>
-		</a>
-	</li>
-	{% endif %}
+{% if site.theme_settings.stack_exchange %}
+<li>
+	<a href="{{ site.theme_settings.stack_exchange }}" target="_blank"
+		title="{{ site.theme_settings.str_follow_on }} Stack Exchange">
+		<i class="fa-brands fa-stack-exchange"></i>
+	</a>
+</li>
+{% endif %}
 
-	{% if site.theme_settings.youtube %}
-	<li>
-		<a href="https://www.youtube.com/user/{{ site.theme_settings.youtube }}" target="_blank"
-			title="{{ site.theme_settings.str_follow_on }} YouTube">
-			<i class="fa-brands fa-youtube"></i>
-		</a>
-	</li>
-	{% endif %}
+{% if site.theme_settings.youtube %}
+<li>
+	<a href="https://www.youtube.com/user/{{ site.theme_settings.youtube }}" target="_blank"
+		title="{{ site.theme_settings.str_follow_on }} YouTube">
+		<i class="fa-brands fa-youtube"></i>
+	</a>
+</li>
+{% endif %}
+
+{% if site.theme_settings.x %}
+<li>
+	<a href="https://x.com/{{ site.theme_settings.x }}" target="_blank"
+		title="{{ site.theme_settings.str_follow_on }} X">
+		<i class="fa-brands fa-x-twitter"></i>
+	</a>
+</li>
+{% endif %}
