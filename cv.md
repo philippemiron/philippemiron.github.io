@@ -13,7 +13,7 @@ order: 2
 ## Employment
 + 2024--Now, AI Engineer, Premera Blue Cross
 + 2023--2024, Senior Scientific Engineer, DTN
-+ 2022--2022, Data Scientist Intern, NewSci
++ 2022--2022, Data Scientist Consultant, NewSci
 
 ## Academic Employment
 + 2023--Now, Adjunct Faculty, Physical Oceanography, Florida State University (COAPS)
