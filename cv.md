@@ -89,7 +89,7 @@ order: 2
   - Catia/Solidworks
 
 ## Languages
-- French (native)
-- English (excellent knowledge)
-- Portuguese (good knowledge)
-- Spanish (good knowledge)
+- French: Native
+- English: Fluent (C2)
+- Portuguese: Intermediate (B2)
+- Spanish: Intermediate (B1)
