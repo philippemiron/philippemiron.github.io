@@ -1,8 +1,9 @@
-- title: "CloudDrift: Making Lagrangian Data More Accessible to Scientists"
+- title: "Clouddrift: Making Lagrangian Data More Accessible to Everyone"
   authors: 'K. Shuman, S. Elipot, **P. Miron** and K. Santana'
-  event: 24th annual SciPy conference
+  event: 24rd annual SciPy conference
   location: Tacoma, USA
   date: '2025-07-07'
+  path: '/archive/posters/2025-scipy-clouddrift.pdf'
 
 - title: "Computational Modeling of English-Spanish Bilingual Reading: Effects of Oral Language Profiles and Initial Literacy Instruction"
   authors: N. Gutiérrez, M. C. Borkenhagen, V. Rigobon, **P. Miron**, and N. Crock
