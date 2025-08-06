@@ -62,16 +62,17 @@ order: 2
 
 ## Skills
 - Programming
-  - Python (torch, numpy, pandas)
+  - Python (PyTorch, NumPy, pandas)
   - C/C++
   - Arduino
 - DevOps
-  - AWS
-  - Gitlab CI/CD
+  - AWS & Azure
+  - Gitlab, GitHub & Azure DevOps
   - Docker
   - Kubernetes
   - Terraform
   - Helm
+  - CloudFormation & Bicep
 - Scientific communication
   - Conferences
   - Data visualization and presentation (LaTeX, Matplotlib, TikZ, Tecplot, Paraview)
