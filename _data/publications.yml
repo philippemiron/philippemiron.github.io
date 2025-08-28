@@ -1,3 +1,9 @@
+- title: "Machine Learning in Fluid Dynamics—Physics-Informed Neural Networks (PINNs) Using Sparse Data: A Review"
+  authors: M. El Hassan, A. Mjalled, **P. Miron**, M. Mönnigmann and N. Bukharin
+  journal: Fluids
+  year: '2025'
+  doi: https://doi.org/10.3390/fluids10090226
+
 - title: Identifying and predicting the Lagrangian coherence of eddies in the Gulf of Mexico using machine learning and satellite observations
   authors: L. Hiron, O. Zavala-Romero, E.P. Chassignet, **P. Miron** and B. Subrahmanyam
   journal: Journal of Physical Oceanography
