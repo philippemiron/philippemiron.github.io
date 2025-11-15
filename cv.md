@@ -11,7 +11,8 @@ order: 2
 + 2005--2009, B. Ing., Mechanical Engineering, Polytechnique Montréal
 
 ## Employment
-+ 2024--Now, AI Engineer, Premera Blue Cross
++ 2025--Now, Principal AI Engineer, Premera Blue Cross
++ 2024--2025, Senior AI Engineer, Premera Blue Cross
 + 2023--2024, Senior Scientific Engineer, DTN
 + 2022--2022, Data Scientist Consultant, NewSci
 
