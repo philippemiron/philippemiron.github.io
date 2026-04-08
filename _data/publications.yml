@@ -1,3 +1,9 @@
+- title: "Tracing the origin of tropical North Atlantic Sargassum blooms to West Africa"
+  authors: 'F.J. Beron-Vera, M.J. Olascoaga, **P. Miron** and G. Bonner'
+  journal: PNAS Nexus
+  year: '2026'
+  doi: https://doi.org/10.1093/pnasnexus/pgag085
+
 - title: "Machine Learning in Fluid Dynamics—Physics-Informed Neural Networks (PINNs) Using Sparse Data: A Review"
   authors: M. El Hassan, A. Mjalled, **P. Miron**, M. Mönnigmann and N. Bukharin
   journal: Fluids
@@ -11,7 +17,7 @@
   doi: https://doi.org/10.1029/2025JH000620
 
 - title: "Clouddrift: a Python package to accelerate the use of Lagrangian data for atmospheric, oceanic, and climate sciences"
-  authors: 'S. Elipot, **P. Miron**, M. Curcic, K. Santana, and R. Lumpkin'
+  authors: 'S. Elipot, **P. Miron**, M. Curcic, K. Santana and R. Lumpkin'
   journal: Journal of Open Source Software
   year: '2024'
   doi: https://joss.theoj.org/papers/10.21105/joss.06742
@@ -25,7 +31,7 @@
 - title: Sampling-Dependent Transition Paths of Iceland--Scotland Overflow Water
   authors: 'F.J. Beron-Vera, M.J. Olascoaga, L. Helfmann and **P. Miron**'
   journal: Journal of Physical Oceanography
-  year: '2023'
+  year: '2022'
   doi: https://doi.org/10.1175/JPO-D-22-0172.1
 
 - title: Lagrangian coherence and source of water of Loop Current Frontal Eddies in the Gulf of Mexico
@@ -83,7 +89,7 @@
   doi: https://doi.org/10.1063/5.0018272
 
 - title: Observation and quantification of inertial effects on the drift of floating objects at the ocean surface
-  authors: 'M.J. Olascoaga, F.J. Beron-Vera, and **P. Miron**'
+  authors: 'M.J. Olascoaga, F.J. Beron-Vera and **P. Miron**'
   journal: Physics of Fluid
   year: '2020'
   doi: https://doi.org/10.1063/1.5139045
